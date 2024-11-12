@@ -9,6 +9,7 @@
 
 
 **Goal:**
+
  To analyze influencer data, uncover patterns in audience engagement, and build a machine-learning 
  a model that predicts engagement levels to help companies choose the right influencers for specific 
  marketing goals.
@@ -26,18 +27,21 @@
        metrics like accuracy, precision, and recall.
      
 **Skills:**
+
   - **Data Analysis:** Python (Pandas, NumPy)
   - **Machine Learning Models:** Random Forest, Decision Tree
   - **Data Visualization:** Python (Matplotlib, Seaborn)
   - **Tools:** Jupyter Notebook for analysis, model building, and visualization
 
 **Metrics:**
+
   - **Engagement Distribution:** Percentage of high, medium, and low engagement levels in the dataset.
   - **Model Performance:** Accuracy, precision, recall, and F1-score of the classification models.
   - **Feature Importance Visualization:** Identification of key features that drive engagement using 
      feature importance scores.
     
 **Summary:**
+
   The analysis provided insights into the engagement levels for different influencer segments, helping 
   to identify the types of questions and audience segments that correlate with higher engagement. The 
   classification models demonstrated good accuracy, with Random Forest outperforming other models. This 
@@ -45,6 +49,7 @@
   campaigns.
   
 **Next Steps:**
+
   - **Optimize Model Performance:** Experiment with hyperparameter tuning or more complex models to 
         improve predictive accuracy.
   - **Deploy the Model:** Use Flask to create a web application where users can input influencer 
